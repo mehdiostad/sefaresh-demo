@@ -1,0 +1,1 @@
+type AppUser = IDashboardUser | ICustomerUser;
